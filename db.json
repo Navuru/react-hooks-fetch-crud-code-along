@@ -1,21 +1,15 @@
 {
   "items": [
     {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
       "id": 6,
       "name": "Cookies",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "name": "Cream",
       "category": "Dairy",
-      "isInCart": false,
+      "isInCart": true,
       "id": 7
     },
     {
@@ -53,6 +47,12 @@
       "category": "Dairy",
       "isInCart": false,
       "id": 14
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 15
     }
   ]
 }
